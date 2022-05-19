@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+  <a href="https://github.com/Zapharaos" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zapharaos&show_icons=true&count_private=true&include_all_commits=true&layout=compact&hide=issues&hide_border=true&theme=github_dark" />
+  </a>
+
+  <a href="https://github.com/Zapharaos" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zapharaos&layout=compact&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" />
+  </a>
+
 <!--
 **Zapharaos/Zapharaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
