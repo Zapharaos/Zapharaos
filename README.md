@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Matthieu 👋
 
   <a href="https://github.com/Zapharaos" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Zapharaos&show_icons=true&count_private=true&include_all_commits=true&layout=compact&hide=issues&hide_border=true&theme=github_dark" />
