@@ -5,7 +5,7 @@
   </a>
 
   <a href="https://github.com/Zapharaos" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zapharaos&layout=compact&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zapharaos&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10&exclude_repo=Website-StudentParty&theme=github_dark" />
   </a>
 
 <!--
